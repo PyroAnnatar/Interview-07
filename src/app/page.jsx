@@ -1,11 +1,11 @@
-'use client'
-import App from '../App'
+"use client";
+import App from "../App";
 
 const Home = () => {
   return (
-    <div>
+    <>
       <App />
-    </div>
-  )
-}
-export default Home
+    </>
+  );
+};
+export default Home;
